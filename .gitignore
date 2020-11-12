@@ -1,0 +1,23 @@
+/node_modules
+/public/hot
+/public/storage
+/public/assets/images/item-images
+/public/assets/images/category-images
+/public/assets/restaurant-logo
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+<<<<<<< HEAD
+=======
+/public/assets/restaurant-logo
+/public/assets/images/item-images
+/public/assets/images/category-images
+/public/assets/restaurant-logo
+
+>>>>>>> 2a25ccf4b6d09f43bac9b574db902bcd428acc91
